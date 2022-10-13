@@ -2,7 +2,6 @@
 <a href="https://bit.ly/3bgtjYk"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-T-Infect-green.svg"></a>
 <a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-2.1-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
@@ -16,10 +15,10 @@
 <p align="center">
 <a href="https://github.com/Tanmay-Tiwaricyber"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
 <a href="https://github.com/Tanmay-Tiwaricyber"><img title="Followers" src="https://img.shields.io/github/followers/Tanmay-Tiwaricyber?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tanmay-Tiwaricyber"><img title="Stars" src="https://img.shields.io/github/stars/Tanmay-Tiwaricyber/infect?color=red&style=flat-square"></a>
-<a href="https://github.com/Tanmay-Tiwaricyber"><img title="Forks" src="https://img.shields.io/github/forks/Tanmay-Tiwaricyber/infect?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/Tanmay-Tiwaricyber/infect?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Tanmay-Tiwaricyber"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="https://github.com/Tanmay-Tiwaricyber/t-infect"><img title="Stars" src="https://img.shields.io/github/stars/Tanmay-Tiwaricyber/infect?color=red&style=flat-square"></a>
+<a href="https://github.com/Tanmay-Tiwaricyber/t-infect/t-infect"><img title="Forks" src="https://img.shields.io/github/forks/Tanmay-Tiwaricyber/infect?color=red&style=flat-square"></a>
+<a href="https://github.com/Tanmay-Tiwaricyber/t-infect"><img title="Watching" src="https://img.shields.io/github/watchers/Tanmay-Tiwaricyber/infect?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Tanmay-Tiwaricyber/t-infect"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 ## ABOUT TOOL :
